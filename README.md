@@ -2,12 +2,12 @@
 
 <h3 align="center">⚙️ System & Languages</h3>
 <p align="center">
-    <img src="https://api.iconify.design/logos:linux-tux.svg" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg" alt="nixos" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/ferris/ferris-happy.png" alt="Ferris the Crab" width="50" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/rust-lang/rust-artwork@master/ferris/ferris-happy.png" alt="Ferris" width="50" height="40"/>
 </p>
 
 ---
