@@ -1,7 +1,3 @@
-# [mains-hum]
-
----
-
 ### ⚙️ System Configuration
 * **OS**: [NixOS](https://nixos.org/)
 * **Languages**: Rust, Nix
@@ -24,6 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=[mains-hum]&show_icons=true&theme=nord&hide_border=true&title_color=81a1c1&text_color=d8dee9&icon_color=81a1c1" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[mains-hum]&layout=compact&theme=nord&hide_border=true&title_color=81a1c1&text_color=d8dee9" height="150" />
 </p>
+
 
 ---
 
