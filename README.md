@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/rust-lang/rust-artwork@master/ferris/ferris-happy.png" alt="Ferris" width="50" height="40"/>
+    <img src="https://api.iconify.design/fluent-emoji:crab.svg" alt="crab" width="40" height="40"/>
 </p>
 
 ---
