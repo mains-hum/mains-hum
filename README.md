@@ -1,11 +1,11 @@
 <p align="center"><code>Hello, I'm mains-hum.</code></p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/mains-hum/nix-dotf?label=last%20update%20nix-dotf&style=for-the-badge&color=81a1c1&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?combined_as_subprojects=false&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Amains-hum&query=%24.total_count&label=total%20commits&style=for-the-badge&color=81a1c1&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?combined_as_subprojects=false&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmains-hum&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=61afef&logo=github" />
-  <img src="https://img.shields.io/badge/dynamic/json?combined_as_subprojects=false&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmains-hum&query=%24.followers&label=Followers&style=for-the-badge&color=e5c07b&logo=github" />
+  <a href="https://github.com/mains-hum/nix-dotf"><img src="https://img.shields.io/static/v1?label=LAST%20UPDATE%20NIX-DOTF&message=TODAY&labelColor=5277C3&color=3d5a99&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=TOTAL%20COMMITS&message=114&labelColor=E05D44&color=a83a2a&style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/static/v1?label=PUBLIC%20REPOS&message=4&labelColor=2E8B57&color=1e5e3a&style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 <h3 align="center">🛠 System & Development Stack</h3>
 
