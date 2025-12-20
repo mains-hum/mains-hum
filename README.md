@@ -1,5 +1,12 @@
 <p align="center"><code>Hello, I'm mains-hum.</code></p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/mains-hum/nix-dotf?label=last%20update%20nix-dotf&style=for-the-badge&color=81a1c1&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?combined_as_subprojects=false&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Amains-hum&query=%24.total_count&label=total%20commits&style=for-the-badge&color=81a1c1&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?combined_as_subprojects=false&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmains-hum&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=61afef&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?combined_as_subprojects=false&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmains-hum&query=%24.followers&label=Followers&style=for-the-badge&color=e5c07b&logo=github" />
+</p>
+
 <h3 align="center">🛠 System & Development Stack</h3>
 
 <p align="center">
@@ -26,10 +33,14 @@
 
 ---
 
-<h3 align="center">📊 Metrics</h3>
+<h3 align="center">📊 Activity & Skills</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mains-hum&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true&title_color=81a1c1" alt="top langs" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mains-hum&show_icons=true&locale=en&theme=nord&hide_border=true&title_color=81a1c1" alt="stats" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mains-hum&theme=github-compact&bg_color=0d1117&color=61afef&line=61afef&point=e5c07b&hide_border=true" />
 </p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mains-hum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61afef&icon_color=e5c07b" height="165px" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mains-hum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61afef" height="165px" />
+</p>
