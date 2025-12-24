@@ -35,12 +35,9 @@
 
 <h3 align="center">📊 Activity & Skills</h3>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mains-hum&theme=github-compact&bg_color=0d1117&color=61afef&line=61afef&point=e5c07b&hide_border=true" />
-</p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mains-hum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61afef&icon_color=e5c07b" height="165px" />
-  
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mains-hum&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="mains-hum github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mains-hum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61afef" height="165px" />
 </p>
+
