@@ -23,6 +23,8 @@
 <p align="center">
   <a href="https://www.rust-lang.org/" target="_blank">
     <img src="https://img.shields.io/badge/Rust-E05D44?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://neovim.io/" target="_blank">
     <img src="https://img.shields.io/badge/Neovim-2E8B57?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" /></a>
   <a href="https://alacritty.org/" target="_blank">
