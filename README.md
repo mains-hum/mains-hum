@@ -27,8 +27,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://neovim.io/" target="_blank">
     <img src="https://img.shields.io/badge/Neovim-2E8B57?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" /></a>
-  <a href="https://alacritty.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Alacritty-ED2231?style=for-the-badge&logo=alacritty&logoColor=white" alt="Alacritty" /></a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 </p>
