@@ -13,6 +13,6 @@
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nixos.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/helix.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/telegram.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terminal.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/firefox.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/niri.svg" width="40" height="40" /> **zellij, fuzzel, waybar, swww, nushell and joshuto**
 
 ## My current configs :blowfish:
-**NixOS: [nix-hypr](https://github.com/mains-hum/hix-hypr)**
+**NixOS: [nix-hypr](https://github.com/mains-hum/nix-hypr)**
 
-**VoidLinux: [void-niri](https://github.com/mains-hum/void-hiri)**
+**VoidLinux: [void-niri](https://github.com/mains-hum/void-niri)**
