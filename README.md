@@ -6,7 +6,7 @@
 
 **I used these distributions:**
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gentoo-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nixos.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/alpine-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" width="40" height="40" /> **void, artix and puppy**
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gentoo-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nixos.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/alpine-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/void-linux.svg" width="40" height="40" />**artix and puppy**
 
 **My current stack:**
 
