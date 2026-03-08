@@ -6,11 +6,11 @@
 
 **I used these distributions:**
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gentoo-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nixos.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/alpine-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/void-linux.svg" width="40" height="40" />**artix and puppy**
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gentoo-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/puppy-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nixos.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/alpine-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/void-linux.svg" width="40" height="40" /> **artix and guix**
 
 **My current stack:**
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gentoo-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wayland.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/niri.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zellij.png" width="35" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/helix.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/librewolf.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nixos.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hyprland.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/helix.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/librewolf.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/telegram.svg" width="40" height="40" />
 
 ## My current configs :blowfish:
 **NixOS: [nix-hypr](https://github.com/mains-hum/nix-hypr)**
