@@ -6,7 +6,7 @@
 
 **I used these distributions:**
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gentoo-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/puppy-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nixos.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/alpine-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/void-linux.svg" width="40" height="40" /> **artix and guix**
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gentoo-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/puppy-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nixos.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/alpine-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/artix.png" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/void-linux.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gnu-guix.svg" width="40" height="40" />
 
 **My current stack:**
 
