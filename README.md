@@ -15,4 +15,4 @@
 ## My current configs :blowfish:
 **NixOS: [nix-hypr](https://github.com/mains-hum/nix-hypr)**
 
-**VoidLinux: [void-niri](https://github.com/mains-hum/void-niri)**
+**Chimera Linux (sert): [sert-chimera](https://github.com/mains-hum/sert-chimera)**
